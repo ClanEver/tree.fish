@@ -1,7 +1,8 @@
 # tree.fish
+
 `tree` command for [fish shell](https://github.com/fish-shell/fish-shell)
 
-## install
+## Install
 
 Install with [Fisher](https://github.com/jorgebucaran/fisher):
 
